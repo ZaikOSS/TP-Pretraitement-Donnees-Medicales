@@ -127,5 +127,5 @@ Le compte rendu complet (PDF) est disponible dans `docs/Compte_Rendu_TP1_v2.pdf`
 
 ## 👤 Auteur
 
-**ZaikOSS** — Filière Intelligence Artificielle  
+**ZaikOSS** 
 Année Universitaire : 2024–2025
